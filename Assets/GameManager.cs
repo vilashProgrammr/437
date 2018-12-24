@@ -41,7 +41,8 @@ public class GameManager : MonoBehaviour {
        //  Debug.Log("INTIAL BRICKS:" + bricksCount);
 
     }
-	
+  //dhananjay 2 
+  //FAILED TEST
 	// Update is called once per frame
 	void Update () {
 		
