@@ -37,6 +37,8 @@ public class GameManager : MonoBehaviour {
       
         lives.text = "Lives : 3";
         Debug.Log("Game Manager started....");
+        //THIS IS DHANANJAY HAREL3
+
        // screenWidth.text = "ScreenWidth:" + Screen.width;
        //  Debug.Log("INTIAL BRICKS:" + bricksCount);
 
